@@ -1,0 +1,24 @@
+{
+  "lockfileVersion": "1",
+  "dependencies": {
+    "github.com/pstaszko/TEMPAHK_MidLevelScript": "branch:main"
+  },
+  "resolved": [
+    {
+      "name": "github.com/pstaszko/TEMPAHK_MidLevelScript",
+      "version": "branch:main",
+      "sha": "76301a302ffb67ff6a325954afbe290412809ec5",
+      "installPath": "ahkpm-modules/github.com/pstaszko/TEMPAHK_MidLevelScript",
+      "dependencies": {
+        "github.com/pstaszko/TEMPAHK_LowLevelScript": "branch:main"
+      }
+    },
+    {
+      "name": "github.com/pstaszko/TEMPAHK_LowLevelScript",
+      "version": "branch:main",
+      "sha": "66a5fe4b443b55936837e0f1e5e6747c92b1abcd",
+      "installPath": "ahkpm-modules/github.com/pstaszko/TEMPAHK_MidLevelScript/ahkpm-modules/github.com/pstaszko/TEMPAHK_LowLevelScript",
+      "dependencies": {}
+    }
+  ]
+}

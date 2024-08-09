@@ -1,0 +1,15 @@
+{
+  "lockfileVersion": "1",
+  "dependencies": {
+    "github.com/pstaszko/TEMPAHK_LowLevelScript": "branch:main"
+  },
+  "resolved": [
+    {
+      "name": "github.com/pstaszko/TEMPAHK_LowLevelScript",
+      "version": "branch:main",
+      "sha": "66a5fe4b443b55936837e0f1e5e6747c92b1abcd",
+      "installPath": "ahkpm-modules/github.com/pstaszko/TEMPAHK_LowLevelScript",
+      "dependencies": {}
+    }
+  ]
+}
