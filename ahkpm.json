@@ -13,6 +13,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "github.com/pstaszko/TEMPAHK_MidLevelScript": "branch:main"
+    "github.com/pstaszko/TEMPAHK_MidLevelScript": "branch:main",
+    "github.com/pstaszko/TEMPAHK_MidLevelScript2": "branch:main"
   }
 }
