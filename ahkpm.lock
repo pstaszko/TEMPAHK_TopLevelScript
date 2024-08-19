@@ -24,7 +24,7 @@
     {
       "name": "github.com/pstaszko/TEMPAHK_MidLevelScript2",
       "version": "branch:main",
-      "sha": "3a9846d3ad2119c9bda0c187b991df16ce99cfcf",
+      "sha": "491a5ad1b5e48a7e2dabf9bd724bb91f920f36e0",
       "installPath": "ahkpm-modules/github.com/pstaszko/TEMPAHK_MidLevelScript2",
       "dependencies": {
         "github.com/pstaszko/TEMPAHK_LowLevelScript": "branch:main"
